@@ -1,0 +1,48 @@
+
+/* Fijamos en 0 todos las variables de margin y padding */
+*  {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Cabin", sans-serif;
+}
+
+/* Activamos el scroll-behavior para ir desde el menu hamburguesa a todas las secciones  */
+html {
+  scroll-behavior: smooth;
+}
+
+ #section1 {
+  height: 100%;
+} 
+
+#section2 {
+  height: 100%;
+} 
+
+ #section3 {
+  height: 100%;
+}
+
+#section3 {
+  height: 100%;
+}
+
+body {
+  background : #000000;
+}
+
+
+/* El cambiamos el color a los iconos de las redes sociales */
+.fa-white{
+  color: #FFFFFF
+;
+}
+
+/* usamos un tipo de letra Cabin, para el Viajes Chile en el Footer */
+/* FOOTER FONT SET */
+ .logo {
+  font-family: "Cabin", cursive;
+  font-size: 1.3rem;
+}
+
